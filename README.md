@@ -1,6 +1,6 @@
-Tasks Class Documentation
+**Tasks Class Documentation**
 
-**Class Tasks**
+Class Tasks
 The Tasks class manages a collection of tasks, offering functionalities to read tasks from a file, manipulate them, and save changes back to the file.
 Constructor (__init__ method)
 Purpose: Initializes an instance of the Tasks class.
@@ -69,7 +69,7 @@ Returns:
 Returns the task (as a list of details) if found.
 Returns None if no task matching the provided name is found.
 
-**Part 2: Main Script Documentation**
+**Main Script Documentation**
 Main Script
 The main script interacts with the Tasks class to provide a menu-driven interface for users to manage tasks.
 
